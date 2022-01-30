@@ -1,4 +1,4 @@
-print(("""\
+print("""\
                              __xxxxxxxxxxxxxxxx___.
                         _gxXXXXXXXXXXXXXXXXXXXXXXXX!x_
                    __x!XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!x_
