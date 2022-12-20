@@ -1,4 +1,4 @@
-print ("""                 uuuuuuu
+print ("                 uuuuuuu
              uu$$$$$$$$$$$uu
           uu$$$$$$$$$$$$$$$$$uu
          u$$$$$$$$$$$$$$$$$$$$$u
@@ -23,7 +23,7 @@ $$$$"""$$$$$$$$$$uuu   uu$$$$$$$$$"""$$$"
   u$$$uuu$$$$$$$$$uu ""$$$$$$$$$$$uuu$$$
   $$$$$$$$$$""""           ""$$$$$$$$$$$"
    "$$$$$"                      ""$$$$""
-     $$$"                         $$$$""")
+     $$$"                         $$$$")
 import random
 lower = "abcdefghijklmnopqrstuvwxzy"
 upper="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
